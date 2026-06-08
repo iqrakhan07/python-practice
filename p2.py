@@ -1,0 +1,1 @@
+print("She sells\n sea shells\n by the sea\n shore")
